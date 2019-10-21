@@ -34,7 +34,7 @@ def get_sentiment_score(documents, subscription_key, sentence_length = None):
     for pos, document in enumerate(response.documents):
         dic, statistic_score = {}, {}
         curr_score = float("{:.2f}".format(document.score))
-        # dic["Sentence"] = documents[pos]['text']
+        dic["Sentence"] = documents[pos]['text']
         dic["Time"] = documents[pos]['time']/10000000
         dic["Sentiment Score"] = curr_score
 

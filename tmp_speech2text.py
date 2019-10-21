@@ -29,7 +29,7 @@ def read_wirte_sigle_file(filename, id_number):
             sentence_length = result.pop()
 
 
-    res = get_sentiment_score(result,sentiment_key,sentence_length)
+    res = get_sentiment_score(result,sentiment_key, sentence_length)
     print(res)
 
 
@@ -37,7 +37,7 @@ def read_wirte_sigle_file(filename, id_number):
     write_file = write_folder+filename
     with open(write_file + ".csv", 'w') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['time', 'id','score', 'max', 'min', 'avg', 'std'])
+        writer.writerow(['time', 'id','score', 'max', 'min', 'avg', 'std', 'sentense'])
         for data in res:
             writer.writerow([
                             math.ceil(data['Time']), 
@@ -47,13 +47,14 @@ def read_wirte_sigle_file(filename, id_number):
                             data['min_score'],
                             data['avg_score'],
                             data['std_score'],
+                            data['Sentence'],
                             ])
     
 if __name__ == "__main__":
 
     # filename = '015_A_E.wav'
-    # id_number = filename[:3]
-    # read_wirte_sigle_file(filename, id_number)
+    # # id_number = filename[:3]
+    # read_wirte_sigle_file(filename, 1)
 
     lists = os.listdir('audio/')
     for listt in lists:

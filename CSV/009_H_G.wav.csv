@@ -1,10 +1,10 @@
-time,id,score,max,min,avg,std
-1,009,0.94,0.94,0.94,0.94,0.94
-9,009,0.96,0.96,0.94,0.95,0.014142135623730963
-12,009,0.11,0.96,0.11,0.6699999999999999,0.4850773134253961
-16,009,0.84,0.96,0.11,0.7125,0.4050822961654417
-20,009,0.08,0.96,0.08,0.586,0.4506439836500649
-23,009,0.07,0.96,0.07,0.5,0.45479665785931184
-31,009,0.98,0.98,0.07,0.5685714285714285,0.4530794106786937
-35,009,0.77,0.98,0.07,0.59375,0.4254724265029236
-52,009,0.96,0.98,0.07,0.6344444444444445,0.4162965022406239
+time,id,score,max,min,avg,std,sentense
+1,009,0.94,0.94,0.94,0.94,0.94,"OK, so this is Jeffrey style happy so it cannot be 100% happy but."
+9,009,0.96,0.96,0.94,0.95,0.014142135623730963,I think something that makes me really happy.
+12,009,0.11,0.96,0.11,0.6699999999999999,0.4850773134253961,Is sometimes I get into negative thoughts?
+16,009,0.84,0.96,0.11,0.7125,0.4050822961654417,And I think.
+20,009,0.08,0.96,0.08,0.586,0.4506439836500649,"Somehow, I disappointed my friends."
+23,009,0.07,0.96,0.07,0.5,0.45479665785931184,"And if I'm alone, it's easy to have these negative thoughts a lot."
+31,009,0.97,0.97,0.07,0.5671428571428572,0.45157923947388184,Something that makes me happy or relieved and just like.
+35,009,0.81,0.97,0.07,0.5975,0.42680708254934774,Is when I go back to school after the long weekend and I get to see my friends and everyone is happy to see me and then I realize like all my negative thoughts are just in my own head and I'm so grateful for my friends.
+52,009,0.93,0.97,0.07,0.6344444444444445,0.41434017157135244,Can you sing happy that they are good friends too?

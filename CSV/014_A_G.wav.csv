@@ -1,18 +1,18 @@
-time,id,score,max,min,avg,std
-2,014,0.02,0.02,0.02,0.02,0.02
-9,014,0.14,0.14,0.02,0.08,0.08485281374238571
-12,014,0.5,0.5,0.02,0.22,0.24979991993593595
-20,014,0.22,0.5,0.02,0.22,0.20396078054371142
-33,014,0.74,0.74,0.02,0.324,0.2920273959751037
-41,014,0.5,0.74,0.02,0.35333333333333333,0.27089973544960627
-44,014,0.02,0.74,0.02,0.3057142857142857,0.27754021587613464
-60,014,0.75,0.75,0.02,0.36125,0.30116144222943664
-63,014,0.12,0.75,0.02,0.33444444444444443,0.2929637823652913
-69,014,0.1,0.75,0.02,0.311,0.2859856251243719
-74,014,0.81,0.81,0.02,0.3563636363636364,0.31023451539997055
-77,014,0.71,0.81,0.02,0.38583333333333336,0.3129175997645774
-94,014,0.06,0.81,0.02,0.3607692307692308,0.312928680332051
-97,014,0.5,0.81,0.02,0.3707142857142857,0.30294615631556315
-105,014,0.82,0.82,0.02,0.40066666666666667,0.3141306977009653
-116,014,0.16,0.82,0.02,0.385625,0.3093858163092376
-121,014,0.09,0.82,0.02,0.36823529411764705,0.3080226309485564
+time,id,score,max,min,avg,std,sentense
+2,014,0.02,0.02,0.02,0.02,0.02,So the first thing is something that makes me angry.
+9,014,0.14,0.14,0.02,0.08,0.08485281374238571,I feel like there's some.
+12,014,0.5,0.5,0.02,0.22,0.24979991993593595,Teachers GIX.
+20,014,0.24,0.5,0.02,0.225,0.2042057785666214,"I don't dislike them, but I think sometimes they can act very childish like they're so sensitive and they get this like."
+33,014,0.28,0.5,0.02,0.23600000000000002,0.17854971296532515,"Yeah, they just act like children, sometimes like today or no no few few weeks ago."
+41,014,0.75,0.75,0.02,0.32166666666666666,0.26369805965662063,I some of the teachers.
+44,014,0.02,0.75,0.02,0.2785714285714286,0.26635994264832513,"They sound like an email is very confusing to people or something. So I forget what the issue is, but like some scheduling problem. So I told him I explained to him and I didn't think I was aggressive, I was like happy."
+60,014,0.75,0.75,0.02,0.3375,0.2976455226319676,But he got very like.
+63,014,0.19,0.75,0.02,0.3211111111111111,0.2827297492502533,"Uh just passive aggressive, I mean, just like."
+69,014,0.1,0.75,0.02,0.299,0.2755781800747899,"Kind of like not very happy with me, but not really showing it an."
+74,014,0.81,0.81,0.02,0.34545454545454546,0.3034588484906524,And we were like talking about.
+77,014,0.71,0.81,0.02,0.37583333333333335,0.30788009275552636,"Whose interpretation of something of some communication is right, and the teacher brought it to another teacher is like no no my interpretation is right, you brought it to another teacher and the other teacher more agreed with me and then that teacher got really upset and he was like Oh, you should be a lawyer."
+94,014,0.03,0.81,0.02,0.34923076923076923,0.309985524889511,So these kind of things like so childish.
+97,014,0.5,0.81,0.02,0.36,0.3005379791691508,It's just like I feel one thing I learned in this program is adults are.
+105,014,0.89,0.89,0.02,0.3953333333333333,0.32030937425884876,"Doesn't mean they're mature just because you're older it doesn't really mean you're like? Yeah, you can still not escape."
+116,014,0.16,0.89,0.02,0.380625,0.31499140199905984,Your bad habits from when you're a kid.
+121,014,0.09,0.89,0.02,0.3635294117647059,0.31302837683807894,"Anyway, as angry stop OK."

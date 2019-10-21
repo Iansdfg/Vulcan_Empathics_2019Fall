@@ -1,10 +1,10 @@
-time,id,score,max,min,avg,std
-1,011,0.92,0.92,0.92,0.92,0.92
-7,011,0.3,0.92,0.3,0.61,0.4384062043356595
-25,011,0.78,0.92,0.3,0.6666666666666667,0.3251666239535253
-28,011,0.25,0.92,0.25,0.5625,0.3374783943701681
-38,011,0.22,0.92,0.22,0.494,0.3299696955782455
-45,011,0.1,0.92,0.1,0.42833333333333334,0.33612001824745086
-56,011,0.15,0.92,0.1,0.38857142857142857,0.3243675164289509
-62,011,0.75,0.92,0.1,0.43375,0.32636252848634445
-64,011,0.16,0.92,0.1,0.4033333333333333,0.3186298793270964
+time,id,score,max,min,avg,std,sentense
+1,011,0.9,0.9,0.9,0.9,0.9,"I said, is the thing that I experienced recently is."
+7,011,0.5,0.9,0.5,0.7,0.282842712474619,So the story begins 10 months ago when we can decide to quit for this program and attended for the next quarter and he asked me to take care of his cat.
+25,011,0.78,0.9,0.5,0.7266666666666667,0.2052640575778754,Tiger for about 2 months so.
+28,011,0.13,0.9,0.13,0.5775,0.3421865962697351,"Last week last week last Saturday. I returned the cat to him, so it's like."
+38,011,0.22,0.9,0.13,0.506,0.3367194678066595,Because I had I had a cat like.
+45,011,0.1,0.9,0.1,0.43833333333333335,0.34376833284447056,2 years ago and the cat was living in my home over 10 years and he died.
+56,011,0.15,0.9,0.1,0.39714285714285713,0.33220045583524244,"In like 2 years ago, so I feel like this."
+62,011,0.75,0.9,0.1,0.44125000000000003,0.3318966061032519,Kind of departure.
+64,011,0.2,0.9,0.1,0.41444444444444445,0.3207066849596026,Reminds me of that kind of experience so I cracked so hard after a cat lady.

@@ -1,9 +1,9 @@
-time,id,score,max,min,avg,std
-1,007,0.5,0.5,0.5,0.5,0.5
-12,007,0.8,0.8,0.5,0.65,0.21213203435596428
-25,007,0.11,0.8,0.11,0.47000000000000003,0.3459768778401239
-34,007,0.25,0.8,0.11,0.41500000000000004,0.30315012782448236
-40,007,0.79,0.8,0.11,0.49,0.3115284898689043
-53,007,0.5,0.8,0.11,0.4916666666666667,0.27866945772127
-57,007,0.5,0.8,0.11,0.4928571428571429,0.25440874498296934
-66,007,0.96,0.96,0.11,0.55125,0.2876723086132156
+time,id,score,max,min,avg,std,sentense
+1,007,0.28,0.28,0.28,0.28,0.28,"So this Saturday, we went to my lender's friends house to have a little gathering and."
+12,007,0.79,0.79,0.28,0.535,0.36062445840513924,Like a few minutes after the gathering. We start to we start to play watching watching ethnics and having fun and the salary is a guy says.
+25,007,0.07,0.79,0.07,0.38,0.37027017163147236,He come across the hard problem and if it's hard to figure out and all of a sudden of us start you.
+34,007,0.25,0.79,0.07,0.34750000000000003,0.30923292192132457,Gears are in the front of the white board and trying to figure it probably not.
+40,007,0.79,0.79,0.07,0.436,0.3329864862122786,And I I offered a solution which work and they are really impressed and.
+53,007,0.5,0.79,0.07,0.44666666666666666,0.29897603025437786,An and after the coloring guy.
+57,007,0.5,0.79,0.07,0.4542857142857143,0.27366994371914155,A guy send which had the request and referred me and offer me to refer me to Google.
+66,007,0.96,0.96,0.07,0.5175,0.31010366930155103,And if it's really it's really make me happy.
