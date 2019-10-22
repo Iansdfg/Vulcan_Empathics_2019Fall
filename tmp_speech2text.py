@@ -29,7 +29,7 @@ def read_wirte_sigle_file(filename, id_number):
             sentence_length = result.pop()
 
 
-    res = get_sentiment_score(result,sentiment_key, sentence_length)
+    res = get_sentiment_score(result, sentiment_key, sentence_length)
     print(res)
 
 

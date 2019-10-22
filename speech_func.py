@@ -223,7 +223,13 @@ def speech_recognize_continuous_from_file(filename):
         # print("inside2: ",evt.result.text)
         # print("inside: ",result_json["Offset"])
         
-        result_dict = {"id":int(result_json["Offset"]/10000),"text":evt.result.text,"time":result_json["Offset"],"language":"en"}
+        result_dict = {
+                    "id":int(result_json["Offset"]/10000),
+                    "text":evt.result.text,
+                    "time":result_json["Offset"],
+                    "duration": result_json['Duration']/10000,
+                    "language":"en",
+                    }
         if len(evt.result.text) > 10:
             total_len.append(len(evt.result.text))
             result_all.append(result_dict)
