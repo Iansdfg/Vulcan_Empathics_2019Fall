@@ -20,10 +20,12 @@ def read_sigle_file(file_name, id_num, intergrated_list):
 
     reader_list = list(reader)[1:]
     max_time = int(name_to_time[id_num])
+    # print(reader_list)
 
     curr_reader_pos = 0
     curr_data = ['0.0']*7
     for count in range(1, max_time+1):
+
         if curr_reader_pos < len(reader_list): 
             if int(reader_list[curr_reader_pos][0]) == count:
                 intergrated_list.append([count] + [id_num] + reader_list[curr_reader_pos][2:])
@@ -31,7 +33,7 @@ def read_sigle_file(file_name, id_num, intergrated_list):
                 if curr_reader_pos < len(reader_list):
                     curr_data = reader_list[curr_reader_pos]
             else:
-                intergrated_list.append([count] + [id_num] + curr_data[2:])
+                intergrated_list.append([count] + [id_num] + [0.5] + curr_data[3:])
         else: 
             new_last_data = curr_data[2:6] + ['0.0'] + [' '] 
             intergrated_list.append([count] + [id_num] + new_last_data)
@@ -45,8 +47,6 @@ def save_data_into_arrary(array_name):
             id_num = item[:3]
             read_sigle_file(item, id_num, array_name)
 
-def change_id_format(array_name):
-    return 
 
 def write_file(large_list):
     csvFile = open("CSV/intergrated.wav.csv", "w")
@@ -57,10 +57,15 @@ def write_file(large_list):
 if __name__ == "__main__":
     intergrated_list = []
 
+    # single file
+    # lists = os.listdir('CSV/')
+    # for item in lists:
+    #     if item == '001_S_T.wav.csv':
+    #         id_num = item[:3]
+    #         read_sigle_file(item, id_num, intergrated_list)
+
+
     save_data_into_arrary(intergrated_list)
-
-    # change_id_format(intergrated_list)
-
     write_file(intergrated_list)
     for item in intergrated_list:
         print(item)
