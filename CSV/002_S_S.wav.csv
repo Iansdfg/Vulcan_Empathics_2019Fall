@@ -1,15 +1,15 @@
 time,id,score,max,min,avg,std,sentense
-1,002,0.03,0.03,0.03,0.03,0.03,"When I feel sad about it, some few weeks ago when I."
-7,002,0.2,0.2,0.03,0.115,0.1202081528017131,So I went back to China right when I was about to leave an my.
-15,002,0.0,0.2,0.0,0.07666666666666667,0.10785793124908957,"My mom cried and I feel really sad about seeing her cry, then I cried too. And that makes me."
-28,002,0.5,0.5,0.0,0.1825,0.22925604317734644,Or that a for a few days and.
-33,002,0.23,0.5,0.0,0.192,0.19967473550752485,After I get back.
-35,002,0.05,0.5,0.0,0.16833333333333333,0.18776758683720327,Immediately got cold and got a fever.
-40,002,0.75,0.75,0.0,0.25142857142857145,0.27877282097486783,Probably because
-42,002,0.5,0.75,0.0,0.28250000000000003,0.2726457670416218,Seattle was a little bit too. A little bit colder than we are where I lived in China and a sudden climate change and also.
-54,002,0.8,0.8,0.0,0.34,0.30789608636681304,The jet lag makes me can sleep well at night so maybe that has the cost.
-62,002,0.0,0.8,0.0,0.306,0.3095588258581342,That makes me sad.
-65,002,0.75,0.8,0.0,0.3463636363636364,0.3227467343683814,Why you mother crying? Can I ask?
-67,002,0.76,0.8,0.0,0.38083333333333336,0.3300814867253053,"Because she's she said about Jesus, she said seeing me Lee."
-76,002,0.13,0.8,0.0,0.36153846153846153,0.32359558489587364,"Last time I saw it, it was like a year ago."
-83,002,0.25,0.8,0.0,0.3535714285714286,0.3123264353169648,"Wish you come to graduation ceremony, which I'm not sure maybe maybe after I officially graduated which is like March."
+6,002,0.03,0.03,0.03,0.03,0.03,"When I feel sad about it, some few weeks ago when I."
+12,002,0.2,0.2,0.03,0.115,0.1202081528017131,So I went back to China right when I was about to leave an my.
+23,002,0.0,0.2,0.0,0.07666666666666667,0.10785793124908957,"My mom cried and I feel really sad about seeing her cry, then I cried too. And that makes me."
+32,002,0.5,0.5,0.0,0.1825,0.22925604317734644,Or that a for a few days and.
+34,002,0.23,0.5,0.0,0.192,0.19967473550752485,After I get back.
+39,002,0.05,0.5,0.0,0.16833333333333333,0.18776758683720327,Immediately got cold and got a fever.
+42,002,0.75,0.75,0.0,0.25142857142857145,0.27877282097486783,Probably because
+53,002,0.5,0.75,0.0,0.28250000000000003,0.2726457670416218,Seattle was a little bit too. A little bit colder than we are where I lived in China and a sudden climate change and also.
+61,002,0.8,0.8,0.0,0.34,0.30789608636681304,The jet lag makes me can sleep well at night so maybe that has the cost.
+63,002,0.0,0.8,0.0,0.306,0.3095588258581342,That makes me sad.
+67,002,0.75,0.8,0.0,0.3463636363636364,0.3227467343683814,Why you mother crying? Can I ask?
+74,002,0.76,0.8,0.0,0.38083333333333336,0.3300814867253053,"Because she's she said about Jesus, she said seeing me Lee."
+81,002,0.13,0.8,0.0,0.36153846153846153,0.32359558489587364,"Last time I saw it, it was like a year ago."
+93,002,0.25,0.8,0.0,0.3535714285714286,0.3123264353169648,"Wish you come to graduation ceremony, which I'm not sure maybe maybe after I officially graduated which is like March."

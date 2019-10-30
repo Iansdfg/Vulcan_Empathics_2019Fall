@@ -1,10 +1,10 @@
 time,id,score,max,min,avg,std,sentense
-1,009,0.94,0.94,0.94,0.94,0.94,"OK, so this is Jeffrey style happy so it cannot be 100% happy but."
-9,009,0.96,0.96,0.94,0.95,0.014142135623730963,I think something that makes me really happy.
-12,009,0.11,0.96,0.11,0.6699999999999999,0.4850773134253961,Is sometimes I get into negative thoughts?
-16,009,0.84,0.96,0.11,0.7125,0.4050822961654417,And I think.
-20,009,0.08,0.96,0.08,0.586,0.4506439836500649,"Somehow, I disappointed my friends."
-23,009,0.07,0.96,0.07,0.5,0.45479665785931184,"And if I'm alone, it's easy to have these negative thoughts a lot."
-31,009,0.97,0.97,0.07,0.5671428571428572,0.45157923947388184,Something that makes me happy or relieved and just like.
-35,009,0.81,0.97,0.07,0.5975,0.42680708254934774,Is when I go back to school after the long weekend and I get to see my friends and everyone is happy to see me and then I realize like all my negative thoughts are just in my own head and I'm so grateful for my friends.
-52,009,0.93,0.97,0.07,0.6344444444444445,0.41434017157135244,Can you sing happy that they are good friends too?
+8,009,0.94,0.94,0.94,0.94,0.94,"OK, so this is Jeffrey style happy so it cannot be 100% happy but."
+11,009,0.96,0.96,0.94,0.95,0.014142135623730963,I think something that makes me really happy.
+16,009,0.11,0.96,0.11,0.6699999999999999,0.4850773134253961,Is sometimes I get into negative thoughts?
+17,009,0.84,0.96,0.11,0.7125,0.4050822961654417,And I think.
+22,009,0.08,0.96,0.08,0.586,0.4506439836500649,"Somehow, I disappointed my friends."
+27,009,0.07,0.96,0.07,0.5,0.45479665785931184,"And if I'm alone, it's easy to have these negative thoughts a lot."
+35,009,0.97,0.97,0.07,0.5671428571428572,0.45157923947388184,Something that makes me happy or relieved and just like.
+52,009,0.81,0.97,0.07,0.5975,0.42680708254934774,Is when I go back to school after the long weekend and I get to see my friends and everyone is happy to see me and then I realize like all my negative thoughts are just in my own head and I'm so grateful for my friends.
+58,009,0.93,0.97,0.07,0.6344444444444445,0.41434017157135244,Can you sing happy that they are good friends too?

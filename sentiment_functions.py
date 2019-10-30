@@ -35,7 +35,8 @@ def get_sentiment_score(documents, subscription_key, sentence_length = None):
         dic, statistic_score = {}, {}
         curr_score = float("{:.2f}".format(document.score))
         dic["Sentence"] = documents[pos]['text']
-        dic["Time"] = documents[pos]['time']/10000000 + documents[pos]['duration']/10000000
+        dic["Duration"] = documents[pos]['duration'] / 1000
+        dic["Time"] = documents[pos]['time'] / 10000000 + documents[pos]['duration'] / 1000
         dic["Sentiment Score"] = curr_score
 
         scores.append(curr_score)

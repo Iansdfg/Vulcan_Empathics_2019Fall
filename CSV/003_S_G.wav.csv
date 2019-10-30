@@ -1,25 +1,25 @@
 time,id,score,max,min,avg,std,sentense
-5,003,0.09,0.09,0.09,0.09,0.09,Sad things.
-11,003,0.19,0.19,0.09,0.14,0.07071067811865475,"Probably I don't want to talk about it, too much. But just you know, my Grandma."
-16,003,0.87,0.87,0.09,0.3833333333333333,0.42442117446392014,You know she.
-22,003,0.73,0.87,0.09,0.47,0.3874704289792104,Seeing here in Taiwan.
-29,003,0.2,0.87,0.09,0.416,0.35662305029260233,Like kind of happy sad.
-35,003,0.5,0.87,0.09,0.43,0.3208114711166046,'Cause I when I went over there.
-37,003,0.74,0.87,0.09,0.4742857142857143,0.31542865769495027,I think my my aunts who take care of her in Taiwan.
-42,003,0.84,0.87,0.09,0.52,0.31937438845342625,Because they live with her.
-45,003,0.2,0.87,0.09,0.48444444444444446,0.3172188168721676,"Too long and like 24 hours, 7 days a week."
-49,003,0.5,0.87,0.09,0.486,0.2991172196833728,They're not and their personality they're not.
-55,003,0.8,0.87,0.09,0.5145454545454545,0.29914423398633766,They just take care of her.
-57,003,0.22,0.87,0.09,0.49,0.29762697824931494,Of her basic needs.
-61,003,0.15,0.87,0.09,0.46384615384615385,0.3001538067263311,I feel like they didn't take care of her.
-65,003,0.16,0.87,0.09,0.44214285714285717,0.2995940476821818,Like emotional needs or even.
-68,003,0.11,0.87,0.09,0.42,0.30116440692751195,Try to find ways to get her brain to work because she's cold and her brain is working less well.
-75,003,0.28,0.87,0.09,0.41125,0.2930500526076277,"A lot of times, she's."
-81,003,0.85,0.87,0.09,0.4370588235294118,0.303042173341483,Like half conscious.
-84,003,0.25,0.87,0.09,0.4266666666666667,0.29728180332511994,"Anyway, so when I went."
-87,003,0.21,0.87,0.09,0.41526315789473683,0.29315086031015636,"I started thinking I remembered before that, I had I had."
-92,003,0.92,0.92,0.09,0.4405,0.30684257921783387,Learned that music is really related to memory so I decided we should play some old Chinese songs for her.
-100,003,0.85,0.92,0.09,0.46,0.31213779008636555,"And she was able to hum along so it was very touching, but also very sad because it's like."
-109,003,0.1,0.92,0.09,0.44363636363636366,0.3141359344000385,She used to be more.
-113,003,0.73,0.92,0.09,0.45608695652173914,0.31266797856853584,Alive or more conscious than she is now and she had all that past and all that history but as.
-119,003,0.19,0.92,0.09,0.445,0.31058150229081155,Only sometimes can it come back? Yeah.
+7,003,0.09,0.09,0.09,0.09,0.09,Sad things.
+16,003,0.19,0.19,0.09,0.14,0.07071067811865475,"Probably I don't want to talk about it, too much. But just you know, my Grandma."
+18,003,0.87,0.87,0.09,0.3833333333333333,0.42442117446392014,You know she.
+23,003,0.73,0.87,0.09,0.47,0.3874704289792104,Seeing here in Taiwan.
+31,003,0.2,0.87,0.09,0.416,0.35662305029260233,Like kind of happy sad.
+37,003,0.5,0.87,0.09,0.43,0.3208114711166046,'Cause I when I went over there.
+41,003,0.74,0.87,0.09,0.4742857142857143,0.31542865769495027,I think my my aunts who take care of her in Taiwan.
+44,003,0.84,0.87,0.09,0.52,0.31937438845342625,Because they live with her.
+49,003,0.2,0.87,0.09,0.48444444444444446,0.3172188168721676,"Too long and like 24 hours, 7 days a week."
+52,003,0.5,0.87,0.09,0.486,0.2991172196833728,They're not and their personality they're not.
+56,003,0.8,0.87,0.09,0.5145454545454545,0.29914423398633766,They just take care of her.
+58,003,0.22,0.87,0.09,0.49,0.29762697824931494,Of her basic needs.
+64,003,0.15,0.87,0.09,0.46384615384615385,0.3001538067263311,I feel like they didn't take care of her.
+67,003,0.16,0.87,0.09,0.44214285714285717,0.2995940476821818,Like emotional needs or even.
+75,003,0.11,0.87,0.09,0.42,0.30116440692751195,Try to find ways to get her brain to work because she's cold and her brain is working less well.
+77,003,0.28,0.87,0.09,0.41125,0.2930500526076277,"A lot of times, she's."
+82,003,0.85,0.87,0.09,0.4370588235294118,0.303042173341483,Like half conscious.
+86,003,0.25,0.87,0.09,0.4266666666666667,0.29728180332511994,"Anyway, so when I went."
+91,003,0.21,0.87,0.09,0.41526315789473683,0.29315086031015636,"I started thinking I remembered before that, I had I had."
+99,003,0.92,0.92,0.09,0.4405,0.30684257921783387,Learned that music is really related to memory so I decided we should play some old Chinese songs for her.
+106,003,0.85,0.92,0.09,0.46,0.31213779008636555,"And she was able to hum along so it was very touching, but also very sad because it's like."
+110,003,0.1,0.92,0.09,0.44363636363636366,0.3141359344000385,She used to be more.
+118,003,0.73,0.92,0.09,0.45608695652173914,0.31266797856853584,Alive or more conscious than she is now and she had all that past and all that history but as.
+124,003,0.19,0.92,0.09,0.445,0.31058150229081155,Only sometimes can it come back? Yeah.

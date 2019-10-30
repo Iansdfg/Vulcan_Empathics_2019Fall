@@ -1,6 +1,6 @@
 time,id,score,max,min,avg,std,sentense
-2,001,0.0,0.0,0.0,0.0,0.0,I feel sad because.
-6,001,0.19,0.19,0.0,0.095,0.13435028842544403,"Because like the policy rates, including the state is very hard for us to stay."
-13,001,0.0,0.19,0.0,0.06333333333333334,0.10969655114602889,"And I have several friends working very hard, but still cannot find a job and forced to go back to China."
-23,001,0.04,0.19,0.0,0.0575,0.09032349269892818,I'm afraid that same thing that happened to me in the near future.
-32,001,0.92,0.92,0.0,0.23,0.39357337308308854,You can see it.
+5,001,0.0,0.0,0.0,0.0,0.0,I feel sad because.
+12,001,0.19,0.19,0.0,0.095,0.13435028842544403,"Because like the policy rates, including the state is very hard for us to stay."
+23,001,0.0,0.19,0.0,0.06333333333333334,0.10969655114602889,"And I have several friends working very hard, but still cannot find a job and forced to go back to China."
+28,001,0.04,0.19,0.0,0.0575,0.09032349269892818,I'm afraid that same thing that happened to me in the near future.
+33,001,0.92,0.92,0.0,0.23,0.39357337308308854,You can see it.

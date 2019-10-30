@@ -37,10 +37,19 @@ def read_wirte_sigle_file(filename, id_number):
     write_file = write_folder+filename
     with open(write_file + ".csv", 'w') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['time', 'id','score', 'max', 'min', 'avg', 'std', 'sentense'])
+        writer.writerow(['time', 
+                        # 'duration', 
+                        'id',
+                        'score', 
+                        'max', 
+                        'min', 
+                        'avg', 
+                        'std', 
+                        'sentense'])
         for data in res:
             writer.writerow([
                             math.ceil(data['Time']), 
+                            # data['Duration'], 
                             id_number,
                             data['Sentiment Score'], 
                             data['max_score'],
@@ -61,3 +70,5 @@ if __name__ == "__main__":
         if listt[-3:] == 'wav':
             id_number = listt[:3]
             read_wirte_sigle_file(listt, id_number)
+
+
