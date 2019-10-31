@@ -6,7 +6,8 @@ import csv
 
 if __name__ == '__main__':
 
-    file_name = 'CSV/intergrated.wav.csv'
+    file_name = 'CSV/intergrated_accurate.wav.csv'
+
     csvFile = open(file_name, "r")
     reader = csv.reader(csvFile)
 
