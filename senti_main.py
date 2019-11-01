@@ -33,7 +33,3 @@ if __name__ == '__main__':
         print(datum)
 
         create_data(table_name, datum, connection)
-
-
-
-    
