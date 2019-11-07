@@ -1,3 +1,5 @@
+# tmp_speech2text.py: 
+# conver all audio into CSV files eg: 001_S_T.wav.csv 
 import azure.cognitiveservices.speech as speechsdk
 from speech_func import speech_recognize_continuous_from_file
 from msrest.authentication import CognitiveServicesCredentials

@@ -1,3 +1,7 @@
+# static_functions.py: 
+# read "CSV/intergrated.wav.csv" and write "CSV/intergrated_accurate.wav.csv". 
+# "CSV/intergra
+
 import csv
 import os 
 from statistics import stdev, mean

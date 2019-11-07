@@ -1,3 +1,9 @@
+# integrate_CVS.py: 
+# integrate all csv from tmp_speech2text.py to "CSV/intergrated.wav.csv"
+# -change format base on database (increment by every second)
+# -padding 0.5 into sentiment
+# -copy the last data if there is no data at this point
+
 import csv
 import os 
 

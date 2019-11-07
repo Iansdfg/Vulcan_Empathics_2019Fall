@@ -1,3 +1,6 @@
+# senti_main.py:
+# upload file "CSV/intergrated_accurate.wav.csv" to database
+
 from CRUD_m import create_data
 from CRUD_m import read_data
 from CRUD_m import close_connection
