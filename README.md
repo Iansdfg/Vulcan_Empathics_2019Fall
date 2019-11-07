@@ -18,8 +18,8 @@ senti_main.py:
 upload file "CSV/intergrated_accurate.wav.csv" to database -->
 
 
-<ul>step 1: <br/>
-put all .wav file into "audio" folder </ul> <br/>
+step 1: <br/>
+put all .wav file into "audio" folder <br/>
 step 2:<br/>
 run 'tmp_speech2text.py', get .csv files in CSV folder<br/>
 step 3:<br/>
