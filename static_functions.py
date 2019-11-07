@@ -3,6 +3,9 @@ import os
 from statistics import stdev, mean
 
 def cvs_to_dict():
+    # store csv file into a hash table, 
+    # key is id, value is [rows]
+    # return hashtable:(dic[key]: [rows_by_id]) , keys:([ids])
     intergrated_file = open("CSV/intergrated.wav.csv", "r")
     reader = csv.reader(intergrated_file)
 
@@ -18,7 +21,9 @@ def cvs_to_dict():
             id_to_row[key].append(row)
     return id_to_row, keys
 
+
 def save_one_file_to_cvs(key):
+    # return one data set w/ accurate max, min, mean, std
     res = []
     senti = [ ]
     count = 1
@@ -34,13 +39,20 @@ def save_one_file_to_cvs(key):
 
 
 if __name__ == "__main__":
+    # store csv file into a hash table, 
+    # key is id, value is [rows]
     id_to_row, keys = cvs_to_dict()
+    # creat a result array
     final = []
+    # go through each key in dic
     for key in keys:
+        # put data set w/ accurate max, min, mean, std in to fianl[] by key
         final += save_one_file_to_cvs(key)
+
 
     csvFile = open("CSV/intergrated_accurate.wav.csv", "w")
     writer = csv.writer(csvFile)
+    # go throug every row in final[]
     for ele in final:
         writer.writerow(ele)
 
