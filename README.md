@@ -24,19 +24,19 @@ put all .wav file into "audio" folder <br/>
 
 step 2:<br/>
 run 'tmp_speech2text.py', get .csv files in CSV folder<br/>
-input: audio/<>.wav output CSV/<>.csv <br/>
+ <i>INPUT: </i> audio/<>.wav  <i>OUTPUT:</i> CSV/<>.csv <br/>
 <br/>
 
 step 3:<br/>
 run 'integrate_CVS.py', get one 'intergrated.wav.csv' file<br/>
-input: CSV/<>.csv  output:  CSV/intergrated.wav.csv <br/>
+<i>INPUT:</i> CSV/<>.csv  <i>OUTPUT:</i>  CSV/intergrated.wav.csv <br/>
 <br/>
 
 step 4:<br/>
 run 'static_functions.py', get one 'intergrated_accurate.wav.csv' file<br/>
-input: CSV/intergrated.wav.csv  output:  CSV/intergrated_accurate.wav.csv <br/>
+<i>INPUT:</i> CSV/intergrated.wav.csv  <i>OUTPUT:</i>  CSV/intergrated_accurate.wav.csv <br/>
 <br/>
 
 step 5:<br/>
 run 'senti_main.py', upload to database<br/>
-input: CSV/intergrated_accurate.wav.csv  output: to database <br/>
+<i>INPUT:</i> CSV/intergrated_accurate.wav.csv  <i>OUTPUT:</i> to database <br/>
